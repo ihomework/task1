@@ -20,7 +20,7 @@
 5. 尽可能保证.h文件的简洁性
    * 可以不公开的API就不要公开，写在实现文件中
 
-6. #import和#include使用
+6. `#import`和`#include`使用
    * Object-C/Object-C++头文件使用 `#import`
    * C/C++文件使用 `#include`
 
